@@ -11,10 +11,10 @@ public class Connected {
     private static Connected db;
     public static Connection connection;
     private static final String url = "jdbc:mysql://localhost:3306/";
-    private static final String dbName = "agence";
+    private static final String dbName = "dbName";
     private static final String driver = "com.mysql.jdbc.Driver";
-    private static final String userName = "medaimane";
-    private static final String password = "che@mysql";
+    private static final String userName = "username";
+    private static final String password = "password";
 
     private Connected() {
         try {
