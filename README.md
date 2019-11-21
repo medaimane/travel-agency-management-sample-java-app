@@ -1,3 +1,7 @@
 # Travel agency sample app
 
-Build a desktop application using Java and MySQL.
+**!!Sorry, this repo code might be outdated!!** Build a desktop application using Java and MySQL.
+
+## Creators
+
+Mohamed Aimane Skhari skhairimedaimane@gmail.com
