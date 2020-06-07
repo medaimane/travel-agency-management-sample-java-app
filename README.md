@@ -4,4 +4,4 @@
 
 ## Creators
 
-Mohamed Aimane Skhari skhairimedaimane@gmail.com
+Mohamed Aimane Skhairi skhairimedaimane@gmail.com
