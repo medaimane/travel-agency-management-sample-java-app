@@ -6,7 +6,7 @@
 
 ### Database Tables
 
-![Database structures](/docs/mysql-schema/Screenshot from 2017-07-04 15-35-34.png)
+![Database structure](/docs/mysql-schema/Screenshot%20from%202017-07-04%2015-35-34.png)
 
 ## Creators
 
